@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryaparadkar&label=Profile%20views&color=0e75b6&style=flat" alt="aaryaparadkar" /> </p>
 
-- 🔭 I’m currently working on [MERN Projects]
+- 🔭 I’m currently working on MERN Projects
 
 - 🌱 I’m currently learning **BlockChain**
 
