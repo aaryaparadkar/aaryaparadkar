@@ -11,7 +11,7 @@ I am currently pursuing engineering from Mumbai University.
 📩 How to reach me 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ayananupjoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryaparadkar/)](https://www.linkedin.com/in/aarya-paradkar-aaa519256/)
+[![Linkedin Badge](https://img.shields.io/badge/-aaryaparadkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryaparadkar/)](https://www.linkedin.com/in/aarya-paradkar-aaa519256/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaru7276@gmail.com)](mailto:aaru7276@gmail.com)
 
 
