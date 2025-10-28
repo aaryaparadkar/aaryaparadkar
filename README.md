@@ -15,6 +15,9 @@ Hi, I'm Aarya 👋<br>I love crafting seamless and scalable software solutions, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaryaparadkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## Open Source Contributions
+[![An image of @kronos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kronos)](https://holopin.io/@kronos)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
