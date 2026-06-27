@@ -1,5 +1,5 @@
 # 💫 About Me:
-ideas need execution. that's what i do — turn them into real products that scale. full ownership. full stack. no handoffs.
+ideas need execution. that's what i do - turn them into real products that scale. full ownership. full stack. no handoffs.
 
 
 ## 🌐 Socials:
